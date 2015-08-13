@@ -1,0 +1,130 @@
+.main_content
+{
+    width:70%;
+    overflow: hidden;
+}
+.sidebar
+{
+    display:block;
+    width:28%;
+    float:left;
+    margin-right:2%;
+}
+.form_elements
+{
+    width:100%;
+    overflow: hidden;
+}
+.form_elements div
+{
+    width:50%;
+    float: left;
+    margin-bottom: 1em;
+}
+.search
+{
+    text-align: right;
+}
+
+.tour_wrapper
+{
+    width: 100%;
+    padding: 2em 0em;
+    overflow: hidden;
+}
+
+.filter_box
+{
+    background: #1990A0;
+    padding:2em;
+    color: white;
+}
+
+.filter_box h3
+{
+    color: white;
+}
+
+.tour_box
+{
+    border: 2px solid #1990A0;
+    margin: 0em 0em 1em;
+    overflow: auto;
+    padding: 1em;
+}
+
+.tour_box_img img
+{
+    width: 20%;
+    float: right;
+    margin-top: -8.5em;
+}
+
+.tour_boxes
+{
+    margin: 1em 0em;
+    overflow: auto;
+}
+
+.tourInfo_box
+{
+    border: 2px solid #1990A0;
+    margin: 1em 0em;
+    overflow: auto;
+    padding: 1em;
+}
+
+.tourInfo_box_text
+{
+    width:750px;
+}
+
+.tourInfo_box_img img
+{
+    width: 20%;
+    float: right;
+    margin-top: -8.5em;
+}
+
+.tour_box_title
+{
+    float: left;
+}
+
+.tour_full
+{
+    color:red;
+    font-size:1.5em;
+    line-height:2em;
+    margin-left: 0.5em;
+    float:left;
+    margin-right:1em;
+}
+
+.next_tour
+{
+    border: 2px solid #1990a0;
+    padding: 0.5em;
+}
+
+.next_tour img
+{
+    width: 50%;
+    float: right;
+    margin: -10.25em 0.5em;
+}
+
+p
+{
+    margin-top: 0.5em !important;
+}
+
+.waiting-list-button
+{
+    margin:0 !important;
+}
+
+h3 a
+{
+    text-decoration:none;
+}

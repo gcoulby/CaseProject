@@ -1,0 +1,46 @@
+.img_div
+{
+    width:58%;
+    float:left;
+    margin:0 2% 2em 0;
+}
+.contact_image
+{
+    width: 100%;
+
+}
+.content_div
+{
+    width: 40%;
+    float:left;
+}
+
+.content_div p
+{
+    margin-top: 0 !important;
+    margin-bottom: 1em;
+}
+
+.content_div input[type="text"], .content_div textarea
+{
+    width:98%;
+}
+
+.captcha
+{
+    width:10% !important;
+}
+.submit
+{
+    float:right;
+}
+
+h4
+{
+    margin-bottom: 0.5em;
+}
+
+.content_div input, .content_div select, .content_div textarea
+{
+    margin-bottom: 1em !important;
+}

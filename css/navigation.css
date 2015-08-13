@@ -1,0 +1,162 @@
+.nav
+{
+    background: #1990A0 !important;
+}
+
+.outer_ul {
+    display: table;
+    margin: 0 auto;
+    list-style: none;
+    color: #fff;
+
+}
+.outer_ul li {
+    display: inline-block;
+
+    position: relative;
+    /*background: #1990a0;*/
+    cursor: pointer;
+    -webkit-transition: all 0.2s;
+    -moz-transition: all 0.2s;
+    -ms-transition: all 0.2s;
+    -o-transition: all 0.2s;
+    transition: all 0.2s;
+}
+
+.outer_ul a
+{
+    display: block;
+    margin: 0em 4em;
+    padding: 1.5em 2em;
+}
+
+.inner_ul a
+{
+    display: block;
+    margin: 0em 2em;
+    padding: 1.5em 2em;
+}
+
+.inner_ul li
+{
+    margin: 0;
+    width:160% !important;
+    z-index: 100;
+}
+
+.outer_ul li:hover {
+    background: #1c7889;
+    color: #fff;
+}
+.outer_ul li .inner_ul {
+    padding: 0;
+    position: absolute;
+    top: 4.5em;
+    left: 0;
+
+    -webkit-box-shadow: none;
+    -moz-box-shadow: none;
+    box-shadow: none;
+    display: none;
+    opacity: 0;
+    visibility: hidden;
+    -webkit-transiton: opacity 0.2s;
+    -moz-transition: opacity 0.2s;
+    -ms-transition: opacity 0.2s;
+    -o-transition: opacity 0.2s;
+    -transition: opacity 0.2s;
+}
+.outer_ul li .inner_ul li {
+    background: #165c6a;
+    display: block;
+    color: #fff;
+    text-shadow: 0 -1px 0 #000;
+}
+.outer_ul li .inner_ul li:hover { background: #1c7889; }
+.outer_ul li:hover .inner_ul {
+    display: block;
+    opacity: 1;
+    visibility: visible;
+}
+
+
+/*=========================================
+Admin Bar Styles
+==========================================*/
+
+#admin_bar
+{
+    background: #2E3234;
+    color:white;
+    /*padding: 1em;*/
+}
+
+#admin_bar ul li
+{
+    display:inline-block; /*Display elements horizontally not vertically*/
+    padding:0.5em 3em;
+    vertical-align: middle;
+}
+
+.user_login
+{
+    float:right;
+    margin-top:-2.5em;
+    margin-right:2em;
+}
+
+
+#admin_bar .outer_ul
+{
+    margin: 0 !important;
+}
+
+#admin_bar .outer_ul li:hover
+{
+    background: #474747;
+}
+
+#admin_bar .outer_ul a
+{
+     padding: 0;
+}
+
+#admin_bar .outer_ul li .inner_ul
+{
+    top:2.5em;
+    border-top:0.7em solid #2E3234;
+    background: #2E3234;
+}
+
+#admin_bar .outer_ul li .inner_ul li
+{
+    background: #2E3234;
+}
+
+#admin_bar .outer_ul li .inner_ul li:hover
+{
+    background: #474747;
+}
+
+#admin_bar .inner_ul li
+{
+    width:160% !important;
+    overflow:hidden;
+}
+
+#admin_bar .inner_ul
+{
+    overflow: hidden;
+}
+.user_drop
+{
+    position: absolute !important;
+    right: 0;
+    top:0.7em;
+}
+
+.google a
+{
+    padding: 0 !important;
+}
+

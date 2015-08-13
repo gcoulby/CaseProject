@@ -1,0 +1,246 @@
+/* http://meyerweb.com/eric/tools/css/reset/
+v2.0 | 20110126
+License: none (public domain)
+*/
+
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed,
+figure, figcaption, footer, header, hgroup,
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure,
+footer, header, hgroup, menu, nav, section {
+    display: block;
+}
+body {
+    line-height: 1;
+}
+ol, ul {
+    list-style: none;
+}
+blockquote, q {
+    quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+    content: '';
+    content: none;
+}
+table {
+    border-collapse: collapse;
+    border-spacing: 0;
+}
+
+
+
+/*===============CSS STARTS=================*/
+
+
+body
+{
+    background:#FDFDFD;
+    font-size:16px;
+    color:#2E3234;
+    font-family: 'Oxygen', sans-serif;
+    line-height:1.5em;
+}
+
+p
+{
+    margin-top:1.5em;
+}
+
+#wrapper
+{
+    width:81%;
+    margin-left: 15%;
+    padding:2em 2%;
+}
+
+
+.user_login
+{
+    float:right;
+    margin-top:-2.5em;
+    margin-right:2em;
+}
+
+.logo
+{
+    width:80%;
+    margin-left:8%;
+    margin-top:2em;
+}
+
+
+
+h1
+{
+    font-size:4em;
+    color:#2E3234;
+    line-height:1.5em;
+}
+
+h2
+{
+    font-size:3em;
+    color:#2E3234;
+    line-height:1.5em;
+}
+
+h3
+{
+    font-size:2em;
+    color:#2E3234;
+    line-height:1.5em;
+}
+
+h4
+{
+    font-size:1.5em;
+    color:#2E3234;
+    line-height:1.5em;
+}
+
+textarea
+{
+    width:95%;
+}
+
+input, select, textarea
+{
+    font-size:1em;
+    padding:0.3em;
+    border:2px solid #2E3234;
+    outline-color: black !important;
+}
+
+
+.button
+{
+    padding:0.8em 1em;
+    background:#2E3234;
+    border:none;
+    color:white;
+    outline-color: black !important;
+    cursor: pointer;
+}
+
+
+.button:hover
+{
+background:#434749;
+}
+
+.button.green, .button.red
+{
+    width:40%;
+    background: green;
+    float: left;
+    text-align: center;
+    margin-top:2em;
+}
+
+.button.red
+{
+    background: red;
+    margin-left: 5%;
+}
+
+.button.red:hover
+{
+    background: darkred;
+}
+
+.button.green
+{
+    background: green;
+}
+
+.button.green:hover
+{
+    background: darkgreen;
+}
+
+a
+{
+color:#1990A0;
+}
+
+li a
+{
+    color: white;
+    /*font-weight: bold;*/
+    text-decoration: none;
+}
+
+table td
+{
+    padding:1.5em;
+    vertical-align: top;
+}
+.submitbutton
+{
+    text-align: right;
+}
+.error
+{
+    color:red;
+    font-style: italic;
+}
+
+a.goog-te-menu-value {
+    padding: 0 0 !important;
+    margin: 0.5em 1em !important;
+    line-height: 1em !important;
+}
+
+
+
+li.google
+{
+    margin: 0 3em;
+}
+
+.goog-te-gadget img
+{
+    float:left;
+    margin:0.2em;
+}
+
+.goog-te-gadget-simple .goog-te-menu-value span
+{
+    margin:0 0.4em;
+}
+
+.goog-te-gadget-simple .goog-te-menu-value
+{
+    margin:0.5em 1em;
+}
+
+.goog-te-gadget-simple
+{
+    margin: 1em -1.2em;
+
+}
+
+.google a
+{
+    padding: 0 !important;
+}

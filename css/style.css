@@ -1,0 +1,281 @@
+body
+{
+    background:#FDFDFD;
+    font-size:16px;
+    color:#2E3234;
+    font-family: 'Oxygen', sans-serif; /*Google Font*/
+    line-height:1.5em;
+    min-width: 912px;
+}
+
+#wrapper
+{
+    width:80%;
+    margin:auto; /*Equal margins on left and right (Doesn't always work)*/
+}
+
+p
+{
+    margin-top:2em;
+}
+
+.logo
+{
+    padding:2em 2em 2em 0;
+}
+
+h1
+{
+    font-size:4em;
+    color:#1990A0;
+    line-height:1.5em;
+}
+
+h2
+{
+    font-size:3em;
+    color:#1990A0;
+    line-height:1.5em;
+}
+
+h3
+{
+    font-size:2em;
+    color:#1C7889;
+    line-height:1.5em;
+}
+
+h4
+{
+    font-size:1.5em;
+    color:#1C7889;
+    line-height:1.5em;
+}
+
+/*.goog-te-gadget-simple*/
+/*{*/
+    /*position: fixed;*/
+    /*top:0;*/
+    /*left:45%;*/
+/*}*/
+
+
+a.goog-te-menu-value {
+    padding: 0 !important;
+    margin: 0 1em !important;
+}
+
+li.google
+{
+    margin: 0 3em;
+}
+
+.goog-te-gadget img
+{
+    float:left;
+    margin:0.2em;
+}
+
+.goog-te-gadget-simple .goog-te-menu-value span
+{
+    margin:0 0.4em;
+}
+
+.goog-te-gadget-simple .goog-te-menu-value
+{
+    margin:0 1em;
+}
+
+h1 a, h2 a, h3 a, h4 a
+{
+    text-decoration: none !important;
+}
+
+.show
+{
+    display:block; /*Show an element*/
+}
+
+.hide
+{
+    display:none !important; /*Hide an element*/
+}
+
+select, input, textarea
+{
+    font-size:1em;
+    padding:0.3em;
+    border:2px solid #1990A0; /*width style color*/
+}
+
+hr
+{
+    border:1px solid #1990A0;
+    margin:3em 0;
+}
+
+.button
+{
+    font-size: 1em;
+    padding:0.5em 1em;
+    background:#1990A0;
+    border:none;
+    color:white;
+    cursor: pointer;
+}
+
+.button:hover
+{
+    background:#1C7889;
+}
+
+a
+{
+    color:#1990A0;
+    text-decoration: none;
+}
+
+li a
+{
+    color: white;
+    /*font-weight: bold;*/
+    text-decoration: none; /*remove the underline from link*/
+}
+
+#footer
+{
+    clear: both;
+    margin-top:2em;
+    padding:2em;
+    color:white;
+    background: #1990A0;
+}
+
+
+sup/*superscript*/
+{
+    vertical-align: super; /*superscript*/
+    font-size: smaller;
+}
+
+.title
+{
+    text-align: center;
+}
+
+#login_form
+{
+    text-align: right;
+    float:right; /*Float Right elements float in reverse order (incase you run into this)*/
+    margin-top:-9em;
+}
+
+#login_form input[type="text"], #login_form input[type="password"]
+{
+    margin:0.5em 0em 0.5em 1em;
+}
+
+input.button {
+    margin: 0.5em 0.2em 0.5em 0;
+}
+
+.new_user
+{
+    margin-right:2em;
+    font-style: italic;
+}
+
+textarea
+{
+    resize: none;
+}
+
+/*Form Form Validation of Labels*/
+label.error
+{
+    color:red !important;
+}
+
+span.error
+{
+    color:red !important;
+    font-style: italic;
+}
+
+/*For Form Validation of Fields*/
+input.error, select.error, textarea.error
+{
+    border-color: red !important;
+}
+
+input.error:focus
+{
+    outline-color: red !important;
+}
+
+@media screen and (max-width: 1500px) {
+    body
+    {
+        font-size: 14px !important;
+    }
+
+    .outer_ul a
+    {
+        margin: 0em 3em !important;
+        padding: 1.5em 0em !important;
+    }
+
+    .outer_ul
+    {
+        margin:0em auto !important;
+    }
+
+    a.goog-te-menu-value {
+        padding: 0 !important;
+        margin: 0 1em !important;
+    }
+
+    li.google
+    {
+        margin: 0 3em;
+    }
+
+    .user_drop
+    {
+        top:0 !important;
+    }
+
+    #admin_bar ul li {
+        padding: 0.5em 1em !important;
+    }
+
+}
+
+@media screen and (max-width: 1200px)
+{
+    .home_image
+    {
+        width:100% !important;
+    }
+}
+
+@media screen and (max-width: 1024px) {
+
+    .outer_ul a
+    {
+        margin: 0em 2em !important;
+        padding: 1.5em 0em !important;
+    }
+
+
+    a.goog-te-menu-value {
+        padding: 0 !important;
+        margin: 0 1em !important;
+    }
+
+    li.google
+    {
+        margin: 0 3em;
+    }
+
+}

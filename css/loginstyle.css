@@ -1,0 +1,78 @@
+body
+{
+    background: #fafafa;
+    font-size:20px;
+    color:#2E3234;
+    font-family: 'Oxygen', sans-serif; /*Google Font*/
+    line-height:1.5em;
+}
+
+
+.login_box
+{
+    width:40%;
+    margin:auto;
+}
+
+.login_box_content
+{
+    width:80%;
+    box-shadow: 0.2em 0.2em 0.5em grey;
+    margin:auto;
+    overflow: hidden;
+    background: white;
+    padding:2em;
+}
+
+.login_header
+{
+    width:60%;
+    margin:auto;
+}
+
+.login_header img
+{
+    width:100%;
+}
+
+.logo a
+{
+    width: 100% !important;
+}
+
+input[type="text"], input[type="password"]
+{
+    font-size:1em;
+    padding:0.3em;
+    border:2px solid #1990A0; /*width style color*/
+    margin-bottom: 2em;
+    width:97%;
+    height:2em;
+}
+
+.button
+{
+    font-size: 1em;
+    padding:1em 1em;
+    background:#1990A0;
+    border:none;
+    color:white;
+    cursor: pointer;
+    float:right;
+}
+.new_user a
+{
+    margin-right:2em;
+    font-style: italic;
+    text-decoration: none;
+    color: #1990A0;
+    font-weight:bold;
+    line-height: 3.5em;
+}
+
+.notice
+{
+    font-style: italic;
+    color: #808080;
+    margin-bottom: 2em;
+}

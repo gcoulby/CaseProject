@@ -1,0 +1,10 @@
+body
+{
+    background-image: url(/img/students.jpg);
+    background-size: cover;
+}
+
+#wrapper
+{
+    display: none;
+}

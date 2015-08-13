@@ -1,0 +1,91 @@
+.nav
+{
+    height:100%;
+    width:15%;
+    position: fixed;
+    background: #2E3234;
+    color:white;
+}
+
+.nav ul li a
+{
+    display: block;
+    padding: 0em 2em !important;
+    line-height: 3em;
+}
+
+.nav ul li:hover
+{
+    background: #313839;
+    border-top:1px ridge #4c4c4c;
+    border-bottom:1px groove #4c4c4c;
+}
+
+.submenu_activator
+{
+    display:block;
+    border-bottom:0px !important;
+}
+
+.submenu_activator:hover > .submenu_ul
+{
+    height: 9.4em;
+    border-top:1px groove #4c4c4c;
+    /*border-bottom:1px ridge #4c4c4c;*/
+}
+
+.submenu_ul:hover, .stay_open
+{
+    height:9.4em !important;
+    border-top:1px groove #4c4c4c !important;
+    /*border-bottom:1px ridge #4c4c4c !important;*/
+}
+
+.submenu_ul
+{
+    /*border-top:0px ridge #4c4c4c;*/
+    /*border-bottom:0px groove #4c4c4c;*/
+
+    display: block;
+    height:0;
+    overflow:hidden;
+    background: #1d2021;
+    -webkit-transition: height 0.2s;
+    -moz-transition: height 0.2s;
+    -ms-transition: height 0.2s;
+    -o-transition: height 0.2s;
+    transition: height 0.2s;
+}
+
+.submenu_ul li
+{
+    padding-left: 1em;
+    border-bottom: 2px groove #4c4c4c;
+    display: block;
+}
+
+.submenu_ul li a
+{
+    display: block;
+}
+
+ul .active_link
+{
+    font-weight: bold;
+    background: #313839;
+    border-top:1px groove #4c4c4c;
+    border-bottom:1px ridge #4c4c4c;
+}
+
+ul ul .active_link
+{
+    font-weight: bold;
+    background: #313839;
+    border-top:1px ridge #4c4c4c;
+    border-bottom:1px groove #4c4c4c;
+}
+
+li
+{
+    cursor: hand !important;
+}

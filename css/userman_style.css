@@ -1,0 +1,97 @@
+td
+{
+    text-align: center;
+    padding:1em 0;
+}
+
+.even
+{
+    background: #e8e8e8;
+}
+
+td, th
+{
+    border: 2px solid black;
+
+}
+
+th
+{
+    background: #2E3234;
+    color: white;
+    padding: 2em 2em;
+}
+
+.overlay_shade
+{
+    display: block;
+    position: absolute; /*Positions an element in an absolute position for example left 3 top 2 useful for floating boxes */
+    top: 0%;
+    left: 0%;
+    width: 100%;
+    height: 100%;
+    background-color: black;
+    z-index:101; /*Z index is the 3D axis or the layers axis, bring things forward or send them back*/
+    -moz-opacity: 0.8; /*-moz is mozilla prefix*/
+    opacity:.80;
+    filter: alpha(opacity=80);
+    overflow: hidden;
+}
+
+.over2
+{
+    z-index:200;
+}
+
+.view_user_box
+{
+    display: block;
+    position: absolute;
+    left: 33%;
+    top:5%;
+    width:30%;
+    height:70%;
+    margin: auto;
+    background: #FDFDFD;
+    z-index:102;
+    margin:auto;
+    -moz-opacity: 1;
+    opacity:100;
+    filter: alpha(opacity=100);
+    padding: 6em 6em;
+    overflow: hidden;
+}
+
+.delete_confirm_box
+{
+    display: block;
+    position: absolute;
+    left: 40%;
+    top:35%;
+    margin: auto;
+    background: #FDFDFD;
+    z-index:202;
+    margin:auto;
+    -moz-opacity: 1;
+    opacity:100;
+    filter: alpha(opacity=100);
+    padding: 6em 6em;
+    overflow: hidden;
+}
+
+.button.delete_confirm,.button.delete_confirm
+{
+    width:auto !important;
+    margin-right: 2em;
+}
+
+.shaded
+{
+    overflow:hidden; /*Turn off scrolling*/
+}
+
+.user_image {
+    width: 25%;
+    float: left;
+    margin: 2em 3em 2em 0;
+}

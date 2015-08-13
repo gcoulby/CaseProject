@@ -1,0 +1,39 @@
+.msg_nav
+{
+    margin-top: 1em;
+    border-top: 0.2em solid #167e8c;
+    border-bottom: 0.2em solid #167e8c;
+
+}
+
+.msg_nav a
+{
+    margin: 0em 0em;
+    color: #167e8c;
+}
+
+.msg_nav li
+{
+    margin: 0 0em;
+}
+
+.msg_nav_li
+{
+    background: white;
+    margin: 0 2em;
+}
+
+.msg_nav .outer_ul a
+{
+    padding: 0.5em 3em;
+}
+
+.msg_nav a:hover
+{
+    color:white;
+}
+
+.msg_nav li:hover
+{
+    color:white;
+}

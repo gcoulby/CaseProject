@@ -1,0 +1,87 @@
+.single_post
+{
+    border: 2px solid #1990A0;
+    margin: 1em 0em;
+    clear:both;
+    overflow:auto;
+    padding:2em;
+}
+
+.board_list
+{
+    border: 2px solid #1990A0;
+    margin: 1em 0;
+    clear:both;
+    overflow:auto;
+    padding:1em;
+
+}
+
+/*.board_link:hover*/
+/*{*/
+    /*background: black !important;*/
+/*}*/
+
+.board_list:hover
+{
+    background: rgba(16, 90, 100, 0.13);
+}
+
+.board_containers a, .thread_containers a
+{
+    text-decoration: none;
+}
+
+.board_list h4
+{
+    float:left;
+}
+
+.single_post p
+{
+    margin-top:0;
+}
+
+.user_info_margin
+{
+    width:10%;
+    float:left;
+}
+
+.post_content
+{
+    width:90%;
+    margin-left: 10%;
+}
+
+.submission_box
+{
+    border: 2px solid #1990A0;
+    clear: both;
+    width: 75%;
+    margin:0 auto;
+}
+
+/*.thread_form*/
+/*{*/
+    /*border: 2px solid #1990A0;*/
+    /*margin: 1em 0em;*/
+    /*clear: both;*/
+    /*width: 100%;*/
+/*}*/
+
+h2
+{
+    text-align: center;
+}
+
+.thread_form {
+    width: 65%;
+    overflow: hidden;
+    margin: auto;
+}
+
+.thread_form textarea
+{
+    width:95%;
+}

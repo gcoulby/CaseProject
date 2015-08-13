@@ -1,0 +1,29 @@
+#signupForm
+{
+    text-align:right;
+    width:60%;
+}
+
+#signupForm input[type="text"], #signupForm input[type="password"]
+{
+    margin:1em 0em 1em 1em;
+}
+select
+{
+    font-size:1em;
+    padding:0.3em;
+    border:2px solid #1990A0;
+    margin:1em 0.25em 1em 1em;
+    width:13em;
+}
+
+#reg_type
+{
+    width:13em;
+    margin:1em 0em 1em 1em;
+}
+
+input.staff
+{
+    margin-right: 0.2em !important;
+}

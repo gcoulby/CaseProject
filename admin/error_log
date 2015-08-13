@@ -1,0 +1,208 @@
+[23-Feb-2015 19:14:47 Europe/London] PHP Warning:  include_once(classes/includes.php): failed to open stream: No such file or directory in /home/apalisco/public_html/braintrust/admin/test_page.php on line 8
+[23-Feb-2015 19:14:47 Europe/London] PHP Warning:  include_once(): Failed opening 'classes/includes.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/apalisco/public_html/braintrust/admin/test_page.php on line 8
+[23-Feb-2015 19:14:47 Europe/London] PHP Fatal error:  Class 'Page' not found in /home/apalisco/public_html/braintrust/admin/test_page.php on line 11
+[23-Feb-2015 19:14:49 Europe/London] PHP Warning:  include_once(classes/includes.php): failed to open stream: No such file or directory in /home/apalisco/public_html/braintrust/admin/test_page.php on line 8
+[23-Feb-2015 19:14:49 Europe/London] PHP Warning:  include_once(): Failed opening 'classes/includes.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/apalisco/public_html/braintrust/admin/test_page.php on line 8
+[23-Feb-2015 19:14:49 Europe/London] PHP Fatal error:  Class 'Page' not found in /home/apalisco/public_html/braintrust/admin/test_page.php on line 11
+[23-Feb-2015 19:14:49 Europe/London] PHP Warning:  include_once(classes/includes.php): failed to open stream: No such file or directory in /home/apalisco/public_html/braintrust/admin/test_page.php on line 8
+[23-Feb-2015 19:14:49 Europe/London] PHP Warning:  include_once(): Failed opening 'classes/includes.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/apalisco/public_html/braintrust/admin/test_page.php on line 8
+[23-Feb-2015 19:14:49 Europe/London] PHP Fatal error:  Class 'Page' not found in /home/apalisco/public_html/braintrust/admin/test_page.php on line 11
+[23-Feb-2015 19:15:16 Europe/London] PHP Warning:  include_once(classes/includes.php): failed to open stream: No such file or directory in /home/apalisco/public_html/braintrust/admin/test_page.php on line 8
+[23-Feb-2015 19:15:16 Europe/London] PHP Warning:  include_once(): Failed opening 'classes/includes.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/apalisco/public_html/braintrust/admin/test_page.php on line 8
+[23-Feb-2015 19:15:16 Europe/London] PHP Fatal error:  Class 'Page' not found in /home/apalisco/public_html/braintrust/admin/test_page.php on line 11
+[23-Feb-2015 19:15:16 Europe/London] PHP Warning:  include_once(classes/includes.php): failed to open stream: No such file or directory in /home/apalisco/public_html/braintrust/admin/test_page.php on line 8
+[23-Feb-2015 19:15:16 Europe/London] PHP Warning:  include_once(): Failed opening 'classes/includes.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/apalisco/public_html/braintrust/admin/test_page.php on line 8
+[23-Feb-2015 19:15:16 Europe/London] PHP Fatal error:  Class 'Page' not found in /home/apalisco/public_html/braintrust/admin/test_page.php on line 11
+[23-Feb-2015 19:15:17 Europe/London] PHP Warning:  include_once(classes/includes.php): failed to open stream: No such file or directory in /home/apalisco/public_html/braintrust/admin/test_page.php on line 8
+[23-Feb-2015 19:15:17 Europe/London] PHP Warning:  include_once(): Failed opening 'classes/includes.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/apalisco/public_html/braintrust/admin/test_page.php on line 8
+[23-Feb-2015 19:15:17 Europe/London] PHP Fatal error:  Class 'Page' not found in /home/apalisco/public_html/braintrust/admin/test_page.php on line 11
+[23-Feb-2015 19:15:21 Europe/London] PHP Warning:  include_once(classes/includes.php): failed to open stream: No such file or directory in /home/apalisco/public_html/braintrust/admin/test_page.php on line 8
+[23-Feb-2015 19:15:21 Europe/London] PHP Warning:  include_once(): Failed opening 'classes/includes.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/apalisco/public_html/braintrust/admin/test_page.php on line 8
+[23-Feb-2015 19:15:21 Europe/London] PHP Fatal error:  Class 'Page' not found in /home/apalisco/public_html/braintrust/admin/test_page.php on line 11
+[23-Feb-2015 19:15:24 Europe/London] PHP Warning:  include_once(classes/includes.php): failed to open stream: No such file or directory in /home/apalisco/public_html/braintrust/admin/test_page.php on line 8
+[23-Feb-2015 19:15:24 Europe/London] PHP Warning:  include_once(): Failed opening 'classes/includes.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/apalisco/public_html/braintrust/admin/test_page.php on line 8
+[23-Feb-2015 19:15:24 Europe/London] PHP Fatal error:  Class 'Page' not found in /home/apalisco/public_html/braintrust/admin/test_page.php on line 11
+[23-Feb-2015 19:15:38 Europe/London] PHP Fatal error:  Cannot call abstract method Page::buildBody() in /home/apalisco/public_html/braintrust/classes/Page.php on line 15
+[23-Feb-2015 19:19:29 Europe/London] PHP Fatal error:  Cannot call abstract method Page::buildBody() in /home/apalisco/public_html/braintrust/classes/Page.php on line 15
+[23-Feb-2015 19:19:40 Europe/London] PHP Fatal error:  Cannot call abstract method Page::buildBody() in /home/apalisco/public_html/braintrust/classes/Page.php on line 15
+[23-Feb-2015 19:19:41 Europe/London] PHP Fatal error:  Cannot call abstract method Page::buildBody() in /home/apalisco/public_html/braintrust/classes/Page.php on line 15
+[23-Feb-2015 19:20:13 Europe/London] PHP Fatal error:  Cannot call abstract method Page::buildBody() in /home/apalisco/public_html/braintrust/classes/Page.php on line 15
+[23-Feb-2015 21:32:06 Europe/London] PHP Parse error:  syntax error, unexpected '?>', expecting ')' in /home/apalisco/public_html/braintrust/admin/test_page.php on line 52
+[23-Feb-2015 21:33:55 Europe/London] PHP Fatal error:  Call to undefined method Page::buildBody() in /home/apalisco/public_html/braintrust/classes/Page.php on line 18
+[23-Feb-2015 22:10:29 Europe/London] PHP Fatal error:  Call to undefined method AdminPage::buildBody() in /home/apalisco/public_html/braintrust/classes/Page.php on line 18
+[23-Feb-2015 22:10:31 Europe/London] PHP Fatal error:  Call to undefined method AdminPage::buildBody() in /home/apalisco/public_html/braintrust/classes/Page.php on line 18
+[26-Feb-2015 14:04:54 Europe/London] PHP Fatal error:  Class 'AdminPage' not found in /home/apalisco/public_html/braintrust/admin/index.php on line 11
+[26-Feb-2015 14:05:04 Europe/London] PHP Fatal error:  Class 'AdminPage' not found in /home/apalisco/public_html/braintrust/admin/index.php on line 11
+[02-Mar-2015 11:15:16 Europe/London] PHP Fatal error:  Class 'PageNew' not found in /home/apalisco/public_html/braintrust/includes/AdminPageNew.php on line 11
+[02-Mar-2015 11:15:36 Europe/London] PHP Fatal error:  Class 'PageNew' not found in /home/apalisco/public_html/braintrust/includes/AdminPageNew.php on line 11
+[02-Mar-2015 11:15:37 Europe/London] PHP Fatal error:  Class 'PageNew' not found in /home/apalisco/public_html/braintrust/includes/AdminPageNew.php on line 11
+[02-Mar-2015 11:16:05 Europe/London] PHP Fatal error:  Class 'PageNew' not found in /home/apalisco/public_html/braintrust/includes/AdminPageNew.php on line 11
+[02-Mar-2015 11:16:06 Europe/London] PHP Fatal error:  Class 'PageNew' not found in /home/apalisco/public_html/braintrust/includes/AdminPageNew.php on line 11
+[02-Mar-2015 11:18:16 Europe/London] PHP Fatal error:  Class 'PageNew' not found in /home/apalisco/public_html/braintrust/includes/AdminPageNew.php on line 11
+[02-Mar-2015 11:18:47 Europe/London] PHP Fatal error:  Class 'PageNew' not found in /home/apalisco/public_html/braintrust/includes/AdminPageNew.php on line 11
+[02-Mar-2015 11:19:00 Europe/London] PHP Fatal error:  Class 'PageNew' not found in /home/apalisco/public_html/braintrust/includes/AdminPageNew.php on line 11
+[02-Mar-2015 11:19:01 Europe/London] PHP Fatal error:  Class 'PageNew' not found in /home/apalisco/public_html/braintrust/includes/AdminPageNew.php on line 11
+[02-Mar-2015 11:19:56 Europe/London] PHP Fatal error:  Class 'PageNew' not found in /home/apalisco/public_html/braintrust/includes/AdminPageNew.php on line 11
+[02-Mar-2015 11:19:57 Europe/London] PHP Fatal error:  Class 'PageNew' not found in /home/apalisco/public_html/braintrust/includes/AdminPageNew.php on line 11
+[02-Mar-2015 11:20:34 Europe/London] PHP Fatal error:  Class 'PageNew' not found in /home/apalisco/public_html/braintrust/includes/AdminPageNew.php on line 11
+[02-Mar-2015 11:20:35 Europe/London] PHP Fatal error:  Class 'PageNew' not found in /home/apalisco/public_html/braintrust/includes/AdminPageNew.php on line 11
+[02-Mar-2015 11:20:53 Europe/London] PHP Fatal error:  Class 'PageNew' not found in /home/apalisco/public_html/braintrust/includes/AdminPageNew.php on line 11
+[02-Mar-2015 11:20:54 Europe/London] PHP Fatal error:  Class 'PageNew' not found in /home/apalisco/public_html/braintrust/includes/AdminPageNew.php on line 11
+[02-Mar-2015 11:20:55 Europe/London] PHP Fatal error:  Class 'PageNew' not found in /home/apalisco/public_html/braintrust/includes/AdminPageNew.php on line 11
+[02-Mar-2015 11:22:42 Europe/London] PHP Fatal error:  Class 'PageNew' not found in /home/apalisco/public_html/braintrust/includes/AdminPageNew.php on line 12
+[02-Mar-2015 11:22:43 Europe/London] PHP Fatal error:  Class 'PageNew' not found in /home/apalisco/public_html/braintrust/includes/AdminPageNew.php on line 12
+[02-Mar-2015 11:22:44 Europe/London] PHP Fatal error:  Class 'PageNew' not found in /home/apalisco/public_html/braintrust/includes/AdminPageNew.php on line 12
+[02-Mar-2015 11:22:44 Europe/London] PHP Fatal error:  Class 'PageNew' not found in /home/apalisco/public_html/braintrust/includes/AdminPageNew.php on line 12
+[02-Mar-2015 11:22:44 Europe/London] PHP Fatal error:  Class 'PageNew' not found in /home/apalisco/public_html/braintrust/includes/AdminPageNew.php on line 12
+[02-Mar-2015 11:29:04 Europe/London] PHP Fatal error:  Class 'PageNew' not found in /home/apalisco/public_html/braintrust/includes/AdminPageNew.php on line 13
+[02-Mar-2015 11:29:06 Europe/London] PHP Fatal error:  Class 'PageNew' not found in /home/apalisco/public_html/braintrust/includes/AdminPageNew.php on line 13
+[02-Mar-2015 11:29:54 Europe/London] PHP Fatal error:  Class 'PageNew' not found in /home/apalisco/public_html/braintrust/includes/AdminPageNew.php on line 13
+[02-Mar-2015 11:29:55 Europe/London] PHP Fatal error:  Class 'PageNew' not found in /home/apalisco/public_html/braintrust/includes/AdminPageNew.php on line 13
+[02-Mar-2015 11:29:56 Europe/London] PHP Fatal error:  Class 'PageNew' not found in /home/apalisco/public_html/braintrust/includes/AdminPageNew.php on line 13
+[02-Mar-2015 11:30:55 Europe/London] PHP Fatal error:  Class 'PageNew' not found in /home/apalisco/public_html/braintrust/includes/AdminPageNew.php on line 13
+[02-Mar-2015 11:30:56 Europe/London] PHP Fatal error:  Class 'PageNew' not found in /home/apalisco/public_html/braintrust/includes/AdminPageNew.php on line 13
+[02-Mar-2015 11:31:15 Europe/London] PHP Fatal error:  Class 'PageNew' not found in /home/apalisco/public_html/braintrust/includes/AdminPageNew.php on line 13
+[02-Mar-2015 11:31:16 Europe/London] PHP Fatal error:  Class 'PageNew' not found in /home/apalisco/public_html/braintrust/includes/AdminPageNew.php on line 13
+[02-Mar-2015 11:32:31 Europe/London] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/apalisco/public_html/braintrust/admin/index.php:39) in /home/apalisco/public_html/braintrust/includes/PageNew.php on line 44
+[02-Mar-2015 11:36:58 Europe/London] PHP Fatal error:  Class 'PageNew' not found in /home/apalisco/public_html/braintrust/includes/AdminPage.php on line 13
+[02-Mar-2015 11:36:59 Europe/London] PHP Fatal error:  Class 'PageNew' not found in /home/apalisco/public_html/braintrust/includes/AdminPage.php on line 13
+[02-Mar-2015 11:37:51 Europe/London] PHP Fatal error:  Class 'AdminPage' not found in /home/apalisco/public_html/braintrust/admin/index.php on line 11
+[02-Mar-2015 11:37:51 Europe/London] PHP Fatal error:  Class 'AdminPage' not found in /home/apalisco/public_html/braintrust/admin/index.php on line 11
+[03-Mar-2015 00:00:02 Europe/London] PHP Parse error:  syntax error, unexpected ';' in /home/apalisco/public_html/braintrust/admin/users.php on line 33
+[03-Mar-2015 00:00:03 Europe/London] PHP Parse error:  syntax error, unexpected ';' in /home/apalisco/public_html/braintrust/admin/users.php on line 33
+[03-Mar-2015 00:00:17 Europe/London] PHP Parse error:  syntax error, unexpected ';' in /home/apalisco/public_html/braintrust/admin/users.php on line 33
+[03-Mar-2015 00:00:18 Europe/London] PHP Parse error:  syntax error, unexpected ';' in /home/apalisco/public_html/braintrust/admin/users.php on line 33
+[03-Mar-2015 00:00:39 Europe/London] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/apalisco/public_html/braintrust/admin/users.php on line 22
+[03-Mar-2015 00:00:41 Europe/London] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/apalisco/public_html/braintrust/admin/users.php on line 22
+[03-Mar-2015 00:02:23 Europe/London] PHP Fatal error:  Cannot use object of type PDOStatement as array in /home/apalisco/public_html/braintrust/includes/Database.php on line 72
+[03-Mar-2015 00:02:24 Europe/London] PHP Fatal error:  Cannot use object of type PDOStatement as array in /home/apalisco/public_html/braintrust/includes/Database.php on line 72
+[03-Mar-2015 00:06:05 Europe/London] PHP Warning:  Invalid argument supplied for foreach() in /home/apalisco/public_html/braintrust/includes/Database.php on line 72
+[03-Mar-2015 00:06:05 Europe/London] PHP Warning:  Invalid argument supplied for foreach() in /home/apalisco/public_html/braintrust/includes/Database.php on line 72
+[03-Mar-2015 00:06:05 Europe/London] PHP Warning:  Invalid argument supplied for foreach() in /home/apalisco/public_html/braintrust/includes/Database.php on line 72
+[03-Mar-2015 00:06:05 Europe/London] PHP Warning:  Invalid argument supplied for foreach() in /home/apalisco/public_html/braintrust/includes/Database.php on line 72
+[03-Mar-2015 00:06:05 Europe/London] PHP Warning:  Invalid argument supplied for foreach() in /home/apalisco/public_html/braintrust/includes/Database.php on line 72
+[03-Mar-2015 00:06:05 Europe/London] PHP Warning:  Invalid argument supplied for foreach() in /home/apalisco/public_html/braintrust/includes/Database.php on line 72
+[03-Mar-2015 00:06:05 Europe/London] PHP Warning:  Invalid argument supplied for foreach() in /home/apalisco/public_html/braintrust/includes/Database.php on line 72
+[03-Mar-2015 00:06:06 Europe/London] PHP Warning:  Invalid argument supplied for foreach() in /home/apalisco/public_html/braintrust/includes/Database.php on line 72
+[03-Mar-2015 00:06:06 Europe/London] PHP Warning:  Invalid argument supplied for foreach() in /home/apalisco/public_html/braintrust/includes/Database.php on line 72
+[03-Mar-2015 00:06:06 Europe/London] PHP Warning:  Invalid argument supplied for foreach() in /home/apalisco/public_html/braintrust/includes/Database.php on line 72
+[03-Mar-2015 00:06:06 Europe/London] PHP Warning:  Invalid argument supplied for foreach() in /home/apalisco/public_html/braintrust/includes/Database.php on line 72
+[03-Mar-2015 00:06:06 Europe/London] PHP Warning:  Invalid argument supplied for foreach() in /home/apalisco/public_html/braintrust/includes/Database.php on line 72
+[03-Mar-2015 00:06:06 Europe/London] PHP Warning:  Invalid argument supplied for foreach() in /home/apalisco/public_html/braintrust/includes/Database.php on line 72
+[03-Mar-2015 00:06:06 Europe/London] PHP Warning:  Invalid argument supplied for foreach() in /home/apalisco/public_html/braintrust/includes/Database.php on line 72
+[03-Mar-2015 00:06:15 Europe/London] PHP Warning:  Invalid argument supplied for foreach() in /home/apalisco/public_html/braintrust/includes/Database.php on line 72
+[03-Mar-2015 00:06:15 Europe/London] PHP Warning:  Invalid argument supplied for foreach() in /home/apalisco/public_html/braintrust/includes/Database.php on line 72
+[03-Mar-2015 00:06:15 Europe/London] PHP Warning:  Invalid argument supplied for foreach() in /home/apalisco/public_html/braintrust/includes/Database.php on line 72
+[03-Mar-2015 00:06:15 Europe/London] PHP Warning:  Invalid argument supplied for foreach() in /home/apalisco/public_html/braintrust/includes/Database.php on line 72
+[03-Mar-2015 00:06:15 Europe/London] PHP Warning:  Invalid argument supplied for foreach() in /home/apalisco/public_html/braintrust/includes/Database.php on line 72
+[03-Mar-2015 00:06:15 Europe/London] PHP Warning:  Invalid argument supplied for foreach() in /home/apalisco/public_html/braintrust/includes/Database.php on line 72
+[03-Mar-2015 00:06:15 Europe/London] PHP Warning:  Invalid argument supplied for foreach() in /home/apalisco/public_html/braintrust/includes/Database.php on line 72
+[03-Mar-2015 00:06:16 Europe/London] PHP Warning:  Invalid argument supplied for foreach() in /home/apalisco/public_html/braintrust/includes/Database.php on line 72
+[03-Mar-2015 00:06:16 Europe/London] PHP Warning:  Invalid argument supplied for foreach() in /home/apalisco/public_html/braintrust/includes/Database.php on line 72
+[03-Mar-2015 00:06:16 Europe/London] PHP Warning:  Invalid argument supplied for foreach() in /home/apalisco/public_html/braintrust/includes/Database.php on line 72
+[03-Mar-2015 00:06:16 Europe/London] PHP Warning:  Invalid argument supplied for foreach() in /home/apalisco/public_html/braintrust/includes/Database.php on line 72
+[03-Mar-2015 00:06:16 Europe/London] PHP Warning:  Invalid argument supplied for foreach() in /home/apalisco/public_html/braintrust/includes/Database.php on line 72
+[03-Mar-2015 00:06:16 Europe/London] PHP Warning:  Invalid argument supplied for foreach() in /home/apalisco/public_html/braintrust/includes/Database.php on line 72
+[03-Mar-2015 00:06:16 Europe/London] PHP Warning:  Invalid argument supplied for foreach() in /home/apalisco/public_html/braintrust/includes/Database.php on line 72
+[03-Mar-2015 09:59:21 Europe/London] PHP Parse error:  syntax error, unexpected ';' in /home/apalisco/public_html/braintrust/admin/users.php on line 41
+[03-Mar-2015 09:59:22 Europe/London] PHP Parse error:  syntax error, unexpected ';' in /home/apalisco/public_html/braintrust/admin/users.php on line 41
+[03-Mar-2015 09:59:23 Europe/London] PHP Parse error:  syntax error, unexpected ';' in /home/apalisco/public_html/braintrust/admin/users.php on line 41
+[03-Mar-2015 10:34:29 Europe/London] PHP Parse error:  syntax error, unexpected ')', expecting ',' or ';' in /home/apalisco/public_html/braintrust/admin/users.php on line 59
+[03-Mar-2015 10:35:03 Europe/London] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';' in /home/apalisco/public_html/braintrust/admin/users.php on line 61
+[03-Mar-2015 10:35:35 Europe/London] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';' in /home/apalisco/public_html/braintrust/admin/users.php on line 61
+[03-Mar-2015 10:41:58 Europe/London] PHP Warning:  strpos(): Offset not contained in string in /home/apalisco/public_html/braintrust/admin/users.php on line 60
+[03-Mar-2015 10:41:58 Europe/London] PHP Warning:  strpos(): Offset not contained in string in /home/apalisco/public_html/braintrust/admin/users.php on line 60
+[03-Mar-2015 10:41:58 Europe/London] PHP Warning:  strpos(): Offset not contained in string in /home/apalisco/public_html/braintrust/admin/users.php on line 60
+[03-Mar-2015 10:41:58 Europe/London] PHP Warning:  strpos(): Offset not contained in string in /home/apalisco/public_html/braintrust/admin/users.php on line 60
+[03-Mar-2015 10:41:58 Europe/London] PHP Warning:  strpos(): Offset not contained in string in /home/apalisco/public_html/braintrust/admin/users.php on line 60
+[03-Mar-2015 10:41:58 Europe/London] PHP Warning:  strpos(): Offset not contained in string in /home/apalisco/public_html/braintrust/admin/users.php on line 60
+[03-Mar-2015 10:41:58 Europe/London] PHP Warning:  strpos(): Offset not contained in string in /home/apalisco/public_html/braintrust/admin/users.php on line 60
+[03-Mar-2015 10:44:58 Europe/London] PHP Warning:  date_format() expects parameter 1 to be DateTime, string given in /home/apalisco/public_html/braintrust/admin/users.php on line 64
+[03-Mar-2015 10:44:58 Europe/London] PHP Warning:  date_format() expects parameter 1 to be DateTime, string given in /home/apalisco/public_html/braintrust/admin/users.php on line 64
+[03-Mar-2015 10:44:58 Europe/London] PHP Warning:  date_format() expects parameter 1 to be DateTime, string given in /home/apalisco/public_html/braintrust/admin/users.php on line 64
+[03-Mar-2015 10:44:58 Europe/London] PHP Warning:  date_format() expects parameter 1 to be DateTime, string given in /home/apalisco/public_html/braintrust/admin/users.php on line 64
+[03-Mar-2015 10:44:58 Europe/London] PHP Warning:  date_format() expects parameter 1 to be DateTime, string given in /home/apalisco/public_html/braintrust/admin/users.php on line 64
+[03-Mar-2015 10:44:58 Europe/London] PHP Warning:  date_format() expects parameter 1 to be DateTime, string given in /home/apalisco/public_html/braintrust/admin/users.php on line 64
+[03-Mar-2015 10:44:58 Europe/London] PHP Warning:  date_format() expects parameter 1 to be DateTime, string given in /home/apalisco/public_html/braintrust/admin/users.php on line 64
+[03-Mar-2015 10:45:00 Europe/London] PHP Warning:  date_format() expects parameter 1 to be DateTime, string given in /home/apalisco/public_html/braintrust/admin/users.php on line 64
+[03-Mar-2015 10:45:00 Europe/London] PHP Warning:  date_format() expects parameter 1 to be DateTime, string given in /home/apalisco/public_html/braintrust/admin/users.php on line 64
+[03-Mar-2015 10:45:00 Europe/London] PHP Warning:  date_format() expects parameter 1 to be DateTime, string given in /home/apalisco/public_html/braintrust/admin/users.php on line 64
+[03-Mar-2015 10:45:00 Europe/London] PHP Warning:  date_format() expects parameter 1 to be DateTime, string given in /home/apalisco/public_html/braintrust/admin/users.php on line 64
+[03-Mar-2015 10:45:00 Europe/London] PHP Warning:  date_format() expects parameter 1 to be DateTime, string given in /home/apalisco/public_html/braintrust/admin/users.php on line 64
+[03-Mar-2015 10:45:00 Europe/London] PHP Warning:  date_format() expects parameter 1 to be DateTime, string given in /home/apalisco/public_html/braintrust/admin/users.php on line 64
+[03-Mar-2015 10:45:00 Europe/London] PHP Warning:  date_format() expects parameter 1 to be DateTime, string given in /home/apalisco/public_html/braintrust/admin/users.php on line 64
+[03-Mar-2015 10:45:27 Europe/London] PHP Warning:  date_format() expects parameter 1 to be DateTime, string given in /home/apalisco/public_html/braintrust/admin/users.php on line 63
+[03-Mar-2015 10:45:27 Europe/London] PHP Warning:  date_format() expects parameter 1 to be DateTime, string given in /home/apalisco/public_html/braintrust/admin/users.php on line 63
+[03-Mar-2015 10:45:27 Europe/London] PHP Warning:  date_format() expects parameter 1 to be DateTime, string given in /home/apalisco/public_html/braintrust/admin/users.php on line 63
+[03-Mar-2015 10:45:27 Europe/London] PHP Warning:  date_format() expects parameter 1 to be DateTime, string given in /home/apalisco/public_html/braintrust/admin/users.php on line 63
+[03-Mar-2015 10:45:27 Europe/London] PHP Warning:  date_format() expects parameter 1 to be DateTime, string given in /home/apalisco/public_html/braintrust/admin/users.php on line 63
+[03-Mar-2015 10:45:27 Europe/London] PHP Warning:  date_format() expects parameter 1 to be DateTime, string given in /home/apalisco/public_html/braintrust/admin/users.php on line 63
+[03-Mar-2015 10:45:27 Europe/London] PHP Warning:  date_format() expects parameter 1 to be DateTime, string given in /home/apalisco/public_html/braintrust/admin/users.php on line 63
+[03-Mar-2015 10:46:13 Europe/London] PHP Warning:  date_format() expects parameter 1 to be DateTime, string given in /home/apalisco/public_html/braintrust/admin/users.php on line 63
+[03-Mar-2015 10:46:13 Europe/London] PHP Warning:  date_format() expects parameter 1 to be DateTime, string given in /home/apalisco/public_html/braintrust/admin/users.php on line 63
+[03-Mar-2015 10:46:13 Europe/London] PHP Warning:  date_format() expects parameter 1 to be DateTime, string given in /home/apalisco/public_html/braintrust/admin/users.php on line 63
+[03-Mar-2015 10:46:13 Europe/London] PHP Warning:  date_format() expects parameter 1 to be DateTime, string given in /home/apalisco/public_html/braintrust/admin/users.php on line 63
+[03-Mar-2015 10:46:13 Europe/London] PHP Warning:  date_format() expects parameter 1 to be DateTime, string given in /home/apalisco/public_html/braintrust/admin/users.php on line 63
+[03-Mar-2015 10:46:13 Europe/London] PHP Warning:  date_format() expects parameter 1 to be DateTime, string given in /home/apalisco/public_html/braintrust/admin/users.php on line 63
+[03-Mar-2015 10:46:13 Europe/London] PHP Warning:  date_format() expects parameter 1 to be DateTime, string given in /home/apalisco/public_html/braintrust/admin/users.php on line 63
+[03-Mar-2015 11:09:18 Europe/London] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/apalisco/public_html/braintrust/includes/Page.php:66) in /home/apalisco/public_html/braintrust/includes/functions.php on line 26
+[11-Mar-2015 16:43:06 Europe/London] PHP Fatal error:  Call to a member function fetchAll() on a non-object in /home/apalisco/public_html/braintrust/includes/Database.php on line 75
+[11-Mar-2015 16:43:10 Europe/London] PHP Fatal error:  Call to a member function fetchAll() on a non-object in /home/apalisco/public_html/braintrust/includes/Database.php on line 75
+[11-Mar-2015 16:43:45 Europe/London] PHP Fatal error:  Call to a member function fetchAll() on a non-object in /home/apalisco/public_html/braintrust/includes/Database.php on line 75
+[11-Mar-2015 16:43:48 Europe/London] PHP Fatal error:  Call to a member function fetchAll() on a non-object in /home/apalisco/public_html/braintrust/includes/Database.php on line 75
+[11-Mar-2015 16:43:51 Europe/London] PHP Fatal error:  Call to a member function fetchAll() on a non-object in /home/apalisco/public_html/braintrust/includes/Database.php on line 75
+[11-Mar-2015 16:44:30 Europe/London] PHP Fatal error:  Call to a member function fetchAll() on a non-object in /home/apalisco/public_html/braintrust/includes/Database.php on line 75
+[11-Mar-2015 18:27:55 Europe/London] PHP Fatal error:  Call to a member function fetchAll() on a non-object in /home/apalisco/public_html/braintrust/includes/Database.php on line 75
+[11-Mar-2015 18:28:00 Europe/London] PHP Fatal error:  Call to a member function fetchAll() on a non-object in /home/apalisco/public_html/braintrust/includes/Database.php on line 75
+[11-Mar-2015 18:28:49 Europe/London] PHP Fatal error:  Call to a member function fetchAll() on a non-object in /home/apalisco/public_html/braintrust/includes/Database.php on line 75
+[11-Mar-2015 18:29:10 Europe/London] PHP Fatal error:  Call to a member function fetchAll() on a non-object in /home/apalisco/public_html/braintrust/includes/Database.php on line 75
+[11-Mar-2015 18:29:13 Europe/London] PHP Fatal error:  Call to a member function fetchAll() on a non-object in /home/apalisco/public_html/braintrust/includes/Database.php on line 75
+[11-Mar-2015 18:29:57 Europe/London] PHP Fatal error:  Call to a member function fetchAll() on a non-object in /home/apalisco/public_html/braintrust/includes/Database.php on line 75
+[11-Mar-2015 18:30:03 Europe/London] PHP Fatal error:  Call to a member function fetchAll() on a non-object in /home/apalisco/public_html/braintrust/includes/Database.php on line 75
+[11-Mar-2015 18:30:31 Europe/London] PHP Fatal error:  Call to a member function fetchAll() on a non-object in /home/apalisco/public_html/braintrust/includes/Database.php on line 75
+[11-Mar-2015 18:30:35 Europe/London] PHP Fatal error:  Call to a member function fetchAll() on a non-object in /home/apalisco/public_html/braintrust/includes/Database.php on line 75
+[11-Mar-2015 18:33:38 Europe/London] PHP Fatal error:  Call to a member function fetchAll() on a non-object in /home/apalisco/public_html/braintrust/includes/Database.php on line 75
+[11-Mar-2015 18:36:08 Europe/London] PHP Fatal error:  Call to a member function fetchAll() on a non-object in /home/apalisco/public_html/braintrust/includes/Database.php on line 75
+[11-Mar-2015 18:36:14 Europe/London] PHP Fatal error:  Call to a member function fetchAll() on a non-object in /home/apalisco/public_html/braintrust/includes/Database.php on line 75
+[11-Mar-2015 18:36:19 Europe/London] PHP Fatal error:  Call to a member function fetchAll() on a non-object in /home/apalisco/public_html/braintrust/includes/Database.php on line 75
+[11-Mar-2015 18:37:18 Europe/London] PHP Fatal error:  Call to a member function fetchAll() on a non-object in /home/apalisco/public_html/braintrust/includes/Database.php on line 75
+[11-Mar-2015 18:37:19 Europe/London] PHP Fatal error:  Call to a member function fetchAll() on a non-object in /home/apalisco/public_html/braintrust/includes/Database.php on line 75
+[11-Mar-2015 18:39:17 Europe/London] PHP Fatal error:  Call to a member function fetchAll() on a non-object in /home/apalisco/public_html/braintrust/includes/Database.php on line 75
+[12-Mar-2015 22:29:37 Europe/London] PHP Fatal error:  Call to undefined function build_array_of_data() in /home/apalisco/public_html/braintrust/admin/index.php on line 15
+[12-Mar-2015 22:30:04 Europe/London] PHP Fatal error:  Call to a member function fetchAll() on a non-object in /home/apalisco/public_html/braintrust/includes/Database.php on line 270
+[12-Mar-2015 22:30:08 Europe/London] PHP Fatal error:  Call to a member function fetchAll() on a non-object in /home/apalisco/public_html/braintrust/includes/Database.php on line 270
+[12-Mar-2015 22:30:38 Europe/London] PHP Fatal error:  Call to a member function fetchAll() on a non-object in /home/apalisco/public_html/braintrust/includes/Database.php on line 270
+[12-Mar-2015 22:30:40 Europe/London] PHP Fatal error:  Call to a member function fetchAll() on a non-object in /home/apalisco/public_html/braintrust/includes/Database.php on line 270
+[12-Mar-2015 22:32:31 Europe/London] PHP Fatal error:  Call to a member function fetchAll() on a non-object in /home/apalisco/public_html/braintrust/includes/Database.php on line 270
+[12-Mar-2015 22:32:32 Europe/London] PHP Fatal error:  Call to a member function fetchAll() on a non-object in /home/apalisco/public_html/braintrust/includes/Database.php on line 270
+[12-Mar-2015 22:32:49 Europe/London] PHP Fatal error:  Call to a member function fetchAll() on a non-object in /home/apalisco/public_html/braintrust/includes/Database.php on line 270
+[12-Mar-2015 22:32:50 Europe/London] PHP Fatal error:  Call to a member function fetchAll() on a non-object in /home/apalisco/public_html/braintrust/includes/Database.php on line 270
+[13-Mar-2015 15:33:45 Europe/London] PHP Fatal error:  Call to undefined method AdminStats::build_array_of_data() in /home/apalisco/public_html/braintrust/admin/stats.php on line 14
+[13-Mar-2015 15:33:47 Europe/London] PHP Fatal error:  Call to undefined method AdminStats::build_array_of_data() in /home/apalisco/public_html/braintrust/admin/stats.php on line 14
+[13-Mar-2015 16:54:00 Europe/London] PHP Parse error:  syntax error, unexpected end of file in /home/apalisco/public_html/braintrust/admin/stats.php on line 37
+[13-Mar-2015 17:11:49 Europe/London] PHP Warning:  Division by zero in /home/apalisco/public_html/braintrust/admin/stats.php on line 39
+[13-Mar-2015 17:11:49 Europe/London] PHP Warning:  Division by zero in /home/apalisco/public_html/braintrust/admin/stats.php on line 39
+[13-Mar-2015 17:11:49 Europe/London] PHP Warning:  Division by zero in /home/apalisco/public_html/braintrust/admin/stats.php on line 39
+[13-Mar-2015 17:37:07 Europe/London] PHP Warning:  Division by zero in /home/apalisco/public_html/braintrust/admin/stats.php on line 74
+[13-Mar-2015 17:37:07 Europe/London] PHP Warning:  Division by zero in /home/apalisco/public_html/braintrust/admin/stats.php on line 74
+[13-Mar-2015 17:37:07 Europe/London] PHP Warning:  Division by zero in /home/apalisco/public_html/braintrust/admin/stats.php on line 74
+[13-Mar-2015 17:37:07 Europe/London] PHP Warning:  Division by zero in /home/apalisco/public_html/braintrust/admin/stats.php on line 74
+[13-Mar-2015 17:37:07 Europe/London] PHP Warning:  Division by zero in /home/apalisco/public_html/braintrust/admin/stats.php on line 74
+[13-Mar-2015 17:37:07 Europe/London] PHP Warning:  Division by zero in /home/apalisco/public_html/braintrust/admin/stats.php on line 74
+[13-Mar-2015 17:37:07 Europe/London] PHP Warning:  Division by zero in /home/apalisco/public_html/braintrust/admin/stats.php on line 74
+[13-Mar-2015 17:43:36 Europe/London] PHP Warning:  Division by zero in /home/apalisco/public_html/braintrust/admin/stats.php on line 72
+[13-Mar-2015 17:43:36 Europe/London] PHP Warning:  Division by zero in /home/apalisco/public_html/braintrust/admin/stats.php on line 72
+[13-Mar-2015 17:43:36 Europe/London] PHP Warning:  Division by zero in /home/apalisco/public_html/braintrust/admin/stats.php on line 72
+[13-Mar-2015 17:43:36 Europe/London] PHP Warning:  Division by zero in /home/apalisco/public_html/braintrust/admin/stats.php on line 72
+[13-Mar-2015 17:43:36 Europe/London] PHP Warning:  Division by zero in /home/apalisco/public_html/braintrust/admin/stats.php on line 72
+[13-Mar-2015 17:43:36 Europe/London] PHP Warning:  Division by zero in /home/apalisco/public_html/braintrust/admin/stats.php on line 72
+[13-Mar-2015 17:43:36 Europe/London] PHP Warning:  Division by zero in /home/apalisco/public_html/braintrust/admin/stats.php on line 72
+[13-Mar-2015 19:08:29 Europe/London] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/apalisco/public_html/braintrust/includes/functions.php:37) in /home/apalisco/public_html/braintrust/includes/Page.php on line 46
+[13-Mar-2015 19:08:43 Europe/London] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/apalisco/public_html/braintrust/includes/functions.php:37) in /home/apalisco/public_html/braintrust/includes/Page.php on line 46
+[13-Mar-2015 20:48:26 Europe/London] PHP Warning:  Invalid argument supplied for foreach() in /home/apalisco/public_html/braintrust/admin/stats.php on line 40
+[13-Mar-2015 20:50:47 Europe/London] PHP Warning:  Invalid argument supplied for foreach() in /home/apalisco/public_html/braintrust/admin/stats.php on line 40
+[13-Mar-2015 20:51:05 Europe/London] PHP Warning:  Invalid argument supplied for foreach() in /home/apalisco/public_html/braintrust/admin/stats.php on line 40
+[13-Mar-2015 20:51:09 Europe/London] PHP Warning:  Invalid argument supplied for foreach() in /home/apalisco/public_html/braintrust/admin/stats.php on line 40
+[13-Mar-2015 20:52:50 Europe/London] PHP Warning:  Invalid argument supplied for foreach() in /home/apalisco/public_html/braintrust/admin/stats.php on line 41
+[13-Mar-2015 20:52:55 Europe/London] PHP Warning:  Invalid argument supplied for foreach() in /home/apalisco/public_html/braintrust/admin/stats.php on line 41
+[13-Mar-2015 21:35:24 Europe/London] PHP Fatal error:  Call to a member function fetchAll() on a non-object in /home/apalisco/public_html/braintrust/includes/Database.php on line 270

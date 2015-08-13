@@ -1,0 +1,33 @@
+.content
+{
+    width: 86%;
+    margin: 2%;
+    overflow: auto;
+
+}
+.user_info
+{
+    width:8%;
+    margin: 2%;
+    float:left;
+}
+.avatar
+{
+    width: 100%;
+}
+.avatar img
+{
+    width:100%;
+    border:2px solid black;
+}
+
+.single_post
+{
+    background: lightgrey;
+    border: 2px solid black;
+    min-height:17em;
+    width:80%;
+    margin:auto;
+    margin-bottom: 1em;
+    font-family: 'Arial', sans-serif; /*Google Font*/
+}

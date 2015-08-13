@@ -1,0 +1,43 @@
+select
+{
+    font-size:1em;
+    padding:0.3em;
+    border:2px solid #1990A0;
+    width:18.05em;
+    margin-bottom: 2em;
+}
+
+input
+{
+    margin-bottom: 2em;
+}
+
+h1
+{
+    text-align: center;
+    margin-bottom: 0.5em;
+}
+
+table
+{
+    width:25%;
+    margin:auto;
+}
+
+.view_table
+{
+    width:30% !important;
+    margin-left:35%;
+}
+
+.view_table td
+{
+    padding:1em 0;
+}
+
+.button.green
+{
+    background: #008000;
+    padding:1em 4em;
+    margin-top: 1em;
+}
